@@ -1,0 +1,6 @@
+{
+  "name": "Story to Slideshow 🎬",
+  "description": "Transform your story into highly detailed scenes and generate stunning visual slideshows using AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
